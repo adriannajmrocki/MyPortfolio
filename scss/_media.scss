@@ -39,6 +39,7 @@
   // Stack Grid Columns
   #home-goals .specials,
   #about-edu .education,
+  #about-c .about-logos,
   #contact-b .contact-info,
   .items {
     grid-template-columns: 1fr;
@@ -69,9 +70,11 @@
       }
     }
 
+    /*
     &-d {
       display: none;
     }
+    */
   }
 
   // Contact
